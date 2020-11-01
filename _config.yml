@@ -14,7 +14,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 title: 
-- My web
+- My website
 email: ""
 
 repository: "https://github.com/pstetson53/pstetson53.github.io"
