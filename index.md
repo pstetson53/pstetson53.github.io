@@ -18,11 +18,11 @@ I study derived algebraic geometry and its applications to programming language 
 
 ##### computer programming 
 
-I am a kind of full-stack developer that uses proofs to understand code and vice versa. I study and encode certified compilers that prove useful theorems w.r.t. a variety of programming problems and (relatively valid) scientific experiments.
+I am a kind of full-stack developer that uses exactly proofs to understand code and vice versa. I research and encode certified compilers that prove useful theorems w.r.t. a variety of programming problems and (relatively valid) scientific experiments.
 
 ##### proof-relevant/homotopy-coherent science
 
-I design certified compilers which compile and deploy formally verified artificial intelligence. One of the founding principles of this science is that experimental findings are recorded coherently as (X: theorem, Y: proof of X). Via this identification, we can mine the "theorems of the universe" by running computer programs using (at least relatively valid) experimental data.
+Informally, in this science, experimental results are recorded as a pair (X: theorem, Y: proof of X) and identified only up to homotopy-coherence. This way we can effectively mine new-theorems of the science and naturally make connections with other fields. The end goal of implementing this science into computer systems is to have certified compilers which compile and deploy formally verified artificial intelligence, with clear learning goals and boundaries.
 
 
 #### current projects/groups
