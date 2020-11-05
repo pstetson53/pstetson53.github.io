@@ -24,20 +24,25 @@ I am a kind of full-stack developer that uses exactly proofs to understand code 
 
 Informally, in this science, experimental results are recorded as a pair (X: theorem, Y: proof of X) and identified only up to homotopy-coherence. This way we can effectively mine new-theorems of the science and naturally make connections with other fields. The end goal of implementing this science into computer systems is to have certified compilers which compile and deploy formally verified artificial intelligence, with clear learning goals and boundaries.
 
+#### projects participated in
 
-#### current projects/groups
 
-#### links
+#### current employment/projects
+
 
 ##### things I've written
 
+* CV
 * arxiv page: 
+* linkdein: 
+* github: 
+* repo:
 
-##### everything else
+
+##### good links
 
 * the nLab, a wiki for higher algebra in mathematics and physics: https://ncatlab.org/nlab/show/HomePage
 
 * the Stacks project, a wiki of modern algebraic geometry: https://stacks.math.columbia.edu/
 
-
-#### talks
+* Ethereum: https://ethereum.org/en/
