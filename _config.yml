@@ -17,8 +17,6 @@ title:
 - "My site"
 email: ""
 
-repository: "https://github.com/pstetson53/pstetson53.github.io"
-
 # Build settings
 plugins:
   - jekyll-feed
