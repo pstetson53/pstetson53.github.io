@@ -14,9 +14,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 title: 
-- "Main page"
-- "Contact"
-- "CV"
+- "My site"
 email: ""
 
 repository: "https://github.com/pstetson53/pstetson53.github.io"
@@ -28,7 +26,9 @@ plugins:
 
 # A list of the pages to display in the navigation bar
 header_pages:
-
+- "home"
+- "contact"
+- "CV"
 
 
 
