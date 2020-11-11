@@ -52,4 +52,8 @@ Informally, in this science, experimental results are recorded as a pair (X: the
 
 * best repo for relevant/history of GL program: http://people.math.harvard.edu/~gaitsgde/GL/
 
-* 
+* EGA has an online translation in english: https://ega.fppf.site/
+
+##### comments
+Ultrafilters.
+
