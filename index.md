@@ -10,26 +10,28 @@ Welcome to my website. My name's Philip. I'm:
 * a proof-relevant/homotopy-coherent scientist.
 
 
-What I do, in more detail:
+In detail:
 
 ##### pure mathematics
 
-I study derived algebraic geometry and its applications to programming language theory and string theory. I like to summarize this as the application of spectral and derived/higher algebra and algebraic geometry to a the construction of a fully synthetic theory of homotopy types and local systems.
+I study derived algebraic geometry and its applications to programming language theory and string theory. Essentially, I'm trying to understand spectral algebraic geometry from the POV of derived algebraic geometry dually higher algebra in hopes that we can have a fully synthetic theory of homotopy types (and homotopy type theory) using local systems.
 
 ##### computer programming 
 
-I am a kind of full-stack developer that uses exactly proofs to understand code and vice versa. I research and encode certified compilers that prove useful theorems w.r.t. a variety of programming problems and (relatively valid) scientific experiments. Check for my open source MMP program on git.
+I am a kind of full-stack developer that uses exactly proofs to understand code and vice versa. I research and encode certified compilers that prove useful theorems w.r.t. a variety of programming problems and (relatively valid) scientific experiments. For example, check my open source MMP program on github.
 
 ##### proof-relevant/homotopy-coherent science
 
-Informally, in this science, experimental results are recorded as a pair (X: theorem, Y: proof of X) and identified only up to homotopy-coherence. This way we can effectively mine new-theorems of the science and naturally make connections with other fields. The end goal of implementing this science into computer systems is to have certified compilers which compile and deploy formally verified artificial intelligence, with clear learning goals and boundaries. This kind of science has a natural piece of automatic discovery and is completely epistemologically lucid.
+Informally, in this science, experimental results are recorded as a pair (X: theorem, Y: proof of X) and identified (via another proof) only up to homotopy-coherence. This way we can effectively mine new-theorems of the science and naturally make connections with other fields. The end goal of implementing this science into computer systems is to have certified compilers which compile and deploy formally verified artificial intelligence, with clear learning goals and boundaries. This kind of science has a natural piece of automatic discovery and is completely epistemologically lucid.
 
 #### projects participated in
 
-- uploaded to git/
+-  git
+-
 
 #### current employment/projects
 
+- 
 
 ##### things I've written
 
@@ -40,7 +42,7 @@ Informally, in this science, experimental results are recorded as a pair (X: the
 * repo:
 
 
-##### good links
+##### good links (mostly wikis and monographs)
 
 * the nLab, a wiki for higher algebra in mathematics and physics: https://ncatlab.org/nlab/show/HomePage
 
@@ -54,6 +56,9 @@ Informally, in this science, experimental results are recorded as a pair (X: the
 
 * EGA has an online translation in english: https://ega.fppf.site/
 
-##### comments
-Ultrafilters.
+* A pre-book from Urs Schreiber on differential cohomology in a cohesive topos: https://ncatlab.org/schreiber/show/differential+cohomology+in+a+cohesive+topos
+
+* A pre-book from Riehl and Verity, cosmoi and model invariant presentations: http://www.math.jhu.edu/~eriehl/elements.pdf
+
+* Spectral algebraic geometry, Lurie: https://www.math.ias.edu/~lurie/papers/SAG-rootfile.pdf
 
